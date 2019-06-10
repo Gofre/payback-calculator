@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Calculadora Reembolsos</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nuevo_gasto">NuevoGastoActivity</string>
+
+    <!-- MainActivity.java -->
+    <string name="title_bar_evento">Eventos</string>
+    <string name="dialog_nuevo_evento">Crear evento</string>
+    <string name="dialog_eliminar_evento">Eliminar evento</string>
+    <string name="text_eliminar_evento">¿Deseas eliminar este evento?</string>
+
+    <!-- ViewPagerAdapter.java -->
+    <string name="title_tab_participantes">Participantes</string>
+    <string name="title_tab_gastos">Gastos</string>
+    <string name="title_tab_reembolsos">Reembolsos</string>
+
+    <!-- EventoActivity.java -->
+    <string name="participante_usado">El participante está siendo usado</string>
+    <string name="dialog_renombrar_evento">Renombrar evento</string>
+
+    <!-- ParticipantesFragment.java -->
+    <string name="dialog_nuevo_participante">Añadir participante</string>
+    <string name="title_nombre_participante">Nombre del participante:</string>
+    <string name="dialog_eliminar_participante">Eliminar participante</string>
+    <string name="text_eliminar_participante">¿Deseas eliminar este participante?</string>
+
+    <!-- GastosFragment.java -->
+    <string name="participantes_empty">No hay participantes</string>
+    <string name="dialog_eliminar_gasto">Eliminar gasto</string>
+    <string name="text_eliminar_gasto">¿Deseas eliminar este gasto?</string>
+    <string name="cancelado">Cancelado</string>
+
+    <!-- activity_nuevo_gasto.xml -->
+    <string name="title_nombre_gasto">Nombre del gasto:</string>
+    <string name="hint_nombre_gasto">Nombre gasto</string>
+    <string name="title_precio">Precio:</string>
+    <string name="hint_precio">0.00</string>
+    <string name="moneda">€</string>
+    <string name="title_comprador">¿Quién pagó?</string>
+    <string name="title_consumidores">Consumidores:</string>
+
+    <!-- Global -->
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="no_valido">Nombre no válido</string>
+
+    <string name="title_nombre_evento">Nombre del evento:</string>
+    <string name="hint_nombre_evento">Nombre evento</string>
+
+    <string name="error_onattach">Error in retrieving data. Please try again</string>
+</resources>
